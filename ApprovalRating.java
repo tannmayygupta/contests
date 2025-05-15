@@ -57,7 +57,7 @@ public class ApprovalRating {
 
         Arrays.sort(arr);
         
-        int bribes = 0;
+        int cou = 0;
 
         for (int i = 0; i < 5; i++) {
             if (sum >= 35) {
@@ -65,10 +65,10 @@ public class ApprovalRating {
             }
 
             sum = sum - arr[i] + 10;
-            bribes++;
+            cou++;
         }
         
-        return bribes * 100;
+        return cou * 100;
 	}
     
 }
