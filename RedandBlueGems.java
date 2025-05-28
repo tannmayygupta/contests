@@ -14,6 +14,8 @@ public class RedandBlueGems{
 		int Q = sc.nextInt();
 		
 		System.out.println(Math.max( R*P , B*Q ));
+     
+        
         
     }
 }
