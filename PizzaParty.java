@@ -20,5 +20,7 @@ public class PizzaParty {
 		int ans = (int) Math.ceil(total/8.0 );
 		
 		System.out.println(ans);   
+
+        
     }
 }
