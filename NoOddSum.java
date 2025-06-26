@@ -52,8 +52,10 @@ public class NoOddSum {
                 
             // }
 
-            int option1 = Integer.MAX_VALUE;
+
             
+            int option1 = Integer.MAX_VALUE;
+
             int option2 = Integer.MAX_VALUE;
 
             option1 = count2;
