@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class CheckOddEvenDivisors {
+
+    // https://www.codechef.com/START193D/problems/ODDEVENDIV
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
