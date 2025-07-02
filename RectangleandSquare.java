@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class RectangleandSquare {
+
+    // https://www.codechef.com/START193D/problems/RECSQ
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
