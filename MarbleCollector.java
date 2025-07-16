@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Marble Collector
+// https://www.codechef.com/START195D/problems/MARBCOLL
 public class MarbleCollector {
     public static void main(String[] args) {
         
