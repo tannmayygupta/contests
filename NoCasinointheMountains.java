@@ -1,4 +1,6 @@
 import java.util.Scanner;
+// B. No Casino in the Mountains
+// https://codeforces.com/contest/2126/problem/B
 
 public class NoCasinointheMountains {
     public static void main(String[] args) {
