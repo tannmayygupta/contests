@@ -1,5 +1,7 @@
 import java.util.Scanner;
+// A. Only One Digit
 
+// https://codeforces.com/contest/2126
 public class OnlyOneDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
