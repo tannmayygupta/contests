@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// https://codeforces.com/contest/2127/problem/A
 public class MixMexMax {
     public static void main(String[] args) {
         
