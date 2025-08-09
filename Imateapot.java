@@ -1,5 +1,6 @@
 import java.util.* ;
-
+// A. I'm a teapot
+// https://atcoder.jp/contests/abc418/tasks/abc418_a
 public class Imateapot{
 
   public static void main(String[] args){
