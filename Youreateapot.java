@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// B. You're a teapot
+// https://atcoder.jp/contests/abc418/tasks/abc418_b
 public class Youreateapot {
     public static void main(String[] args) {
         int st = -1 ;
