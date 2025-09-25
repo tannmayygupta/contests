@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+// Codeforces Round 1054 (Div. 3)
+// https://codeforces.com/contest/2149/problem/A
+// A. Be Positive
 public class BePositive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
