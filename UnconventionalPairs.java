@@ -1,5 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
+// B. Unconventional Pairs
+// https://codeforces.com/contest/2149/problem/B
+// Codeforces Round 1054 (Div. 3)
 
 public class UnconventionalPairs {
     public static void main(String[] args) {
