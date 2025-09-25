@@ -148,6 +148,10 @@
 
 import java.util.Scanner;   
 
+// https://codeforces.com/contest/2149/problem/C
+// C. MEX rose
+// Codeforces Round 1054 (Div. 3)
+
 public class MEXrose {
     public static void main(String[] args) {
         
