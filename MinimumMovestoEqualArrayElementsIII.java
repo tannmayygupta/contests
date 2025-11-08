@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+// Minimum Moves to Equal Array Elements III 
+// https://leetcode.com/contest/biweekly-contest-169/problems/minimum-moves-to-equal-array-elements-iii/
+
 public class MinimumMovestoEqualArrayElementsIII {
 
     public static int minMoves(int[] nums) {
