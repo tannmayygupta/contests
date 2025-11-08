@@ -1,4 +1,7 @@
 public class CountSubarraysWithMajorityElementI {
+
+    // Q2. Count Subarrays With Majority Element I 
+    // https://leetcode.com/contest/biweekly-contest-169/problems/count-subarrays-with-majority-element-i/
     public static void main(String[] args) {
 
         int nums[] = {} ;
