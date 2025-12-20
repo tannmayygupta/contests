@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class MaximumSumofThreeNumbersDivisiblebyThree {
+public class DetailMinimumNumberofOperationstoHaveDistinctElements {
     public static void main(String[] args) {
 
         int[] nums = {8,3,5,8,4,7} ;
