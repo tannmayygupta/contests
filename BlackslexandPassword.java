@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// A. Blackslex and Password
 public class BlackslexandPassword {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
