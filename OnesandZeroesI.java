@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// Ones and Zeroes I
+// https://www.codechef.com/START219D/problems/OZ1
 public class OnesandZeroesI {
     public static void main (String[] args) throws java.lang.Exception {
 		// your code goes here
