@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+// New Operation
+// https://www.codechef.com/START219D/problems/NEWOP
 public class NewOperation {
     public static void main (String[] args) throws java.lang.Exception {
 		// your code goes here
