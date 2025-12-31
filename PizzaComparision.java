@@ -1,7 +1,10 @@
+import java.util.Scanner;
+
 public class PizzaComparision {
     public static void main(String[] args) {
         // your code goes here
-		
+		// Pizza Comparision
+        // https://www.codechef.com/START219D/problems/PIZZACOMP
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
 		while(t--!=0 ){
