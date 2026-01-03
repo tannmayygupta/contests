@@ -52,5 +52,5 @@ public class MinimumSubarrayLengthWithDistinctSumAtLeastK {
         }
 
         return minsize ;
-    }©leetcode
+    }
 }
