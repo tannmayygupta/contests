@@ -1,5 +1,6 @@
 import java.util.HashMap;
-
+// Q2. Minimum Subarray Length With Distinct Sum At Least K©leetcode
+// https://leetcode.com/contest/biweekly-contest-173/problems/minimum-subarray-length-with-distinct-sum-at-least-k/description/
 public class MinimumSubarrayLengthWithDistinctSumAtLeastK {
     public static void main(String[] args) {
         int[] nums = {2,2,3,1};
