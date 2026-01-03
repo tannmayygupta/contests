@@ -1,4 +1,6 @@
 public class ReverseStringPrefix {
+    // Q1. Reverse String Prefix©leetcode
+    // https://leetcode.com/contest/biweekly-contest-173/problems/reverse-string-prefix/
     public static void main(String[] args) {
         String s = "Tanmay";
         int k = 5;
