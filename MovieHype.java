@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // Movie Hype
+// http://codechef.com/viewsolution/1224253436
 public class MovieHype {
     public static void main (String[] args) throws java.lang.Exception
 	{
