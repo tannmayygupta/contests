@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Movie Hype
 public class MovieHype {
     public static void main (String[] args) throws java.lang.Exception
 	{
