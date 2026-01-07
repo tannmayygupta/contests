@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// https://www.codechef.com/START220C/problems/TWOPLG 
+// Two Pile Game
 public class TwoPileGame {
     public static void main (String[] args) throws java.lang.Exception
 	{
