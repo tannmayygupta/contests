@@ -2,30 +2,42 @@ import java.util.Scanner;
 
 public class Hourglass {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc =new Scanner(System.in);
         int t = sc.nextInt();
-        
-        while (t-- > 0) {
+
+        while (t--!=0) {
             long s = sc.nextLong();
             long k = sc.nextLong();
             long m = sc.nextLong();
-            
-            long flips = m / k;
-            
 
-            long lflips = flips * k;
-            
-            if (lflips == m && m > 0) {
-                lflips = (flips - 1) * k;
+            // if(k > s){
+            //     System.out.println("0");
+            //     continue;
+            // }
+            // 16 7 7
+            long lflip = m % k ;
+            if(lflip == 0){
+                lflip = k;
             }
+
+            if(lflip > s){
+                System.out.println("0");
+            }else{
+                System.out.println(lflip);
+            }
+
+            // while (m > (lflip + k) ) {
+            //     lflip += k ;
+            //     // m-=k;
+            // }
+
+            // if((m - lflip)  s){
+            //     System.out.println("0");
+            // }else{
+            //     System.out.println(m - lflip);
+            // }
             
-            long timeSinFlip = m - lflips;
-            
-            long answer = (timeSinFlip > s) ? 0 : timeSinFlip;
-            
-            System.out.println(answer);
+            // System.out.println(Math.max(s, m-lflip));
         }
-        
-        sc.close();
     }
 }
