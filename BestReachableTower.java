@@ -1,6 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
-
+//  Best Reachable Tower©leetcode
+// https://leetcode.com/contest/biweekly-contest-174/problems/best-reachable-tower/
 public class BestReachableTower {
     public static void main(String[] args) {
         int[][] towers = { {1,2,5 } , {2,1,7} , {3,1,9} };
