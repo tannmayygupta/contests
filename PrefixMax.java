@@ -22,7 +22,7 @@ public class PrefixMax {
 
             for(int i = 0 ; i < n ; i++){
                 // max = Math.max(max, arr[i]);
-                if(max > arr[i]){
+                if(max < arr[i]){
                     max = arr[i];
                     ind = i ;
                 }
