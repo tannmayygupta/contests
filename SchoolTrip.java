@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class SchoolTrip {
     public static void main(String[] args) {
         
-
-        		// your code goes here
+// https://www.codechef.com/START223C/problems/SCHOOLTRIP
+// School Trip
+// your code goes here
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -39,7 +40,7 @@ public class SchoolTrip {
 		  System.out.println(min);
 		    
 		}
-        
+
 
     }
 }
