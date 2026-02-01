@@ -4,7 +4,7 @@ public class CountMonobitIntegers {
     public static void main(String[] args) {
         System.out.println(countMonobit(5));
     }
-
+    // https://leetcode.com/contest/weekly-contest-487/problems/count-monobit-integers/description/
     // Q1. Count Monobit Integers©leetcode
 
     public static int countMonobit(int n) {
