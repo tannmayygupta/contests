@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class MaximumScore {
+    // https://www.codechef.com/START225C/problems/MXSCWN
+    // Maximum Score
     public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
@@ -58,4 +60,5 @@ public class MaximumScore {
 		    
 		}
 
+ }
 }
