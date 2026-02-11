@@ -2,7 +2,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class AllEven {
-
+// https://www.codechef.com/START225C/problems/ALLEV
+// All Even
     public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
