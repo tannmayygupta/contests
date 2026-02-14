@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+// Q2. Number of Prefix Connected Groups
+// https://leetcode.com/contest/biweekly-contest-176/problems/number-of-prefix-connected-groups/description/
 
 public class NumberofPrefixConnectedGroups {
     public static void main(String[] args) {
