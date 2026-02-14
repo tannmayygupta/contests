@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 // Plus-Minus Split
-//  https://www.codechef.com/START225C/problems/PSAS
+//  https://www.codechef.com/START225C/problems/PSASQ3. House Robber V
 public class PlusMinusSplit {
     public static void main(String[] args) throws java.lang.Exception {
         // your code goes here
