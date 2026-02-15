@@ -1,4 +1,6 @@
 import java.util.Scanner;
+// A. Sieve of Erato67henes
+// https://codeforces.com/contest/2195/problem/A
 
 public class SieveofErato67henes {
     public static void main(String[] args) {
