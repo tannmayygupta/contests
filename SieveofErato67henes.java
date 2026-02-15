@@ -23,7 +23,7 @@ public class SieveofErato67henes {
                 }
             }
 
-            if (sixseven && one) {
+            if (sixseven) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
