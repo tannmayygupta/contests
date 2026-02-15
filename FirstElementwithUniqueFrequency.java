@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
-
+// 3843. First Element with Unique Frequency
+// https://leetcode.com/problems/first-element-with-unique-frequency/description/
 public class FirstElementwithUniqueFrequency {
     public static void main(String[] args) {
         int[] arr = {20,10,30,30};
