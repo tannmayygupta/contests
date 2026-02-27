@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// B. Deletion Sort
+// https://codeforces.com/contest/2200/problem/B
 public class DeletionSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
