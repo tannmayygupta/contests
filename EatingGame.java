@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// A. Eating Game
+// https://codeforces.com/contest/2200/problem/A
 public class EatingGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,7 +13,7 @@ public class EatingGame {
             for(int i = 0 ; i < n; i++){
                 arr[i] = sc.nextInt() ;
             }  
-            
+
             int max = Integer.MIN_VALUE ;
 
             for(int i = 0 ; i < n; i++){
