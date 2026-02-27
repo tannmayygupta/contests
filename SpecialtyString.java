@@ -1,5 +1,8 @@
 import java.util.Scanner;
 import java.util.Stack;
+// C. Specialty String
+// https://codeforces.com/contest/2200/problem/C
+
 
 public class SpecialtyString {
     public static void main(String[] args) {
