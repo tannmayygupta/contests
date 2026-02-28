@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.HashMap;
-
+// 3852. Smallest Pair With Different Frequencies 
+// http://leetcode.com/problems/smallest-pair-with-different-frequencies/description/
 public class SmallestPairWithDifferentFrequencies {
     public static void main(String[] args) {
         int[] nums = {1,1,2,2,3,4};
