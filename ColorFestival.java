@@ -1,5 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
+// https://www.codechef.com/viewsolution/1244278043
+// Color Festival
 
 public class ColorFestival {
     public static void main(String[] args) {
