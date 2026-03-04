@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+// Balloon Smash Party
+// https://www.codechef.com/problems/BOP3E
 public class BalloonSmashParty {
 
     public static void main (String[] args) throws java.lang.Exception
@@ -37,5 +38,5 @@ public class BalloonSmashParty {
         }
         System.out.print(sb);
 	}
-    
+
 }
