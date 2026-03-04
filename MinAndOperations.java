@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// https://www.codechef.com/viewsolution/1244278043
+// Min And Operations
 public class MinAndOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
