@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class AllZero {
-
+// All Zero
+// https://www.codechef.com/START229C/problems/ALLZR
     public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
