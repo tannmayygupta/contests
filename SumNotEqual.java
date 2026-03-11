@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Sum Not Equal
+// https://www.codechef.com/START229C/problems/NOTSUM
 public class SumNotEqual {
     public static void main (String[] args) throws java.lang.Exception
 	{
