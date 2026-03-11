@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Distinct Colors
+// https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/DISTINCTCOL
 public class DistinctColors {
     public static void main (String[] args) throws java.lang.Exception
 	{
