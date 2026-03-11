@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// Sequential Clamp
+// https://www.codechef.com/START229C/problems/SEQCLAMP
 public class SequentialClamp {
     public static void main (String[] args) throws java.lang.Exception
 	{
