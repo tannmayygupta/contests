@@ -1,5 +1,6 @@
 import java.util.Arrays;
-
+// https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/description/
+// 3867. Sum of GCD of Formed Pairs
 public class SumofGCDofFormedPairs {
     public static void main(String[] args) {
         int[] nums = {3,6,2,8};
