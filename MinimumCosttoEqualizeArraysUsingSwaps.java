@@ -1,4 +1,6 @@
 public class MinimumCosttoEqualizeArraysUsingSwaps {
+    // https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/
+    // 3868. Minimum Cost to Equalize Arrays Using Swaps
     public static void main(String[] args) {
         int[] nums1 = {10,20};
         int[] nums2 = {20,10};
