@@ -31,7 +31,7 @@ public class SumofGCDofFormedPairs {
         return sum ;
     }
 
-    public int gcd(int a, int b){
+    public static int gcd(int a, int b){
         if(b == 0){
             return a ;
         }
