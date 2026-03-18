@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// https://www.codechef.com/problems/RESELL?tab=submissions 
+// Reselling Items
 public class ResellingItems {
     public static void main(String[] args) {
         // your code goes here
@@ -55,6 +56,6 @@ public class ResellingItems {
 		    System.out.println(prof);
 		    
 		}
-        
+
     }
 }
