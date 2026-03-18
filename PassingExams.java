@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// https://www.codechef.com/problems/PASSEXAMS?tab=submissions
+// Passing Exams
 public class PassingExams {
     public static void main(String[] args) {
         // your code goes here
@@ -18,6 +19,6 @@ public class PassingExams {
 		        System.out.println("No");
 		    }
 		}
-        
+
     }
 }
