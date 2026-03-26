@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+// https://www.codechef.com/START231D/problems/NO25PLS
+// Imperfect Numbers
+
+
 public class ImperfectNumbers {
     	public static void main (String[] args) throws java.lang.Exception
 	{
