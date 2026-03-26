@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// https://www.codechef.com/START231D/problems/SSNK?tab=statement
+// Snaky Strings
 public class SnakyStrings {
     public static void main (String[] args) throws java.lang.Exception
 	{
@@ -15,5 +16,5 @@ public class SnakyStrings {
 		}
 
 	}
-    
+
 }
