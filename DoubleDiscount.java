@@ -1,5 +1,29 @@
 import java.util.Scanner;
 
+
+// https://www.codechef.com/START231D/problems/DBDISC 
+// Double Discount
+
+// input 
+// 4
+// 3 16
+// 10 8 14
+// 5 2 12
+// 3 20
+// 10 8 14
+// 5 2 12
+// 5 230
+// 230 102 98 308 250
+// 231 123 211 120 345
+// 4 100
+// 90 120 60 150
+// 10 45 19 78
+
+// output 
+// 14
+// 17
+// 442
+// 0
 public class DoubleDiscount {
     public static void main (String[] args) throws java.lang.Exception
 	{
