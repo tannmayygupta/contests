@@ -1,6 +1,23 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
+
+// https://www.codechef.com/START231D/problems/DBDISC
+// Target Temperature
+
+// Input
+// 3
+// 2
+// 1 3
+// 3
+// 4 4 4
+// 4
+// 5 6 6 5
+
+// Output
+// Yes
+// Yes
+// No
 public class TargetTemperature {
     public static void main (String[] args) throws java.lang.Exception
 	{
