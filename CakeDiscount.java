@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // Cake
-// // https://www.codechef.com/START233C/problems/MOVIE7 Discount
+// // https://www.codechef.com/START233C/problems/MOVIE7Cricket Nets Discount
 public class CakeDiscount {
     public static void main (String[] args) throws java.lang.Exception
 	{
