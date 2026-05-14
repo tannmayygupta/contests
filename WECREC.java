@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
+// https://www.codechef.com/problems/WECREC?tab=statement
 public class WECREC {
     public static void main (String[] args) throws java.lang.Exception
 	{
