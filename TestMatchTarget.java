@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TestMatchTarget {
-    // https://www.codechef.com/problems/TESTTGT
+    // https://www.codechef.com/problems/TESTTGTA. Games on the Train
     public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
